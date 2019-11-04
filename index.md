@@ -12,7 +12,13 @@
 ## How to join
 
 Discord Link:
+
 * [Ground 0](https://discord.gg/Xhp4xhs)
 
 Realm Link
+
 * Link is coming later
+
+## Why is there not more on this site?
+
+* THis takes time, be patent.
