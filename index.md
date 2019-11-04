@@ -21,4 +21,4 @@ Realm Link
 
 ## Why is there not more on this site?
 
-* THis takes time, be patent.
+* This takes time, be patent.
