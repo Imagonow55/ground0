@@ -1,6 +1,6 @@
-## Welcome to Ground0
+# Welcome to Ground0
 
-# What we have:
+## What we have:
 
 * Economy
 * Dynamic Lighting
